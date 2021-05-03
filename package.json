@@ -1,0 +1,23 @@
+{
+  "name": "Employee-Crud-API",
+  "version": "1.0.0",
+  "description": "Aplicação  CRUD API em Node.js que alimentará os 4 principais framaworks do mercado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enivaldoqueiroz/Employee-Crud-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enivaldoqueiroz/Employee-Crud-API/issues"
+  },
+  "homepage": "https://github.com/enivaldoqueiroz/Employee-Crud-API#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  }
+}
